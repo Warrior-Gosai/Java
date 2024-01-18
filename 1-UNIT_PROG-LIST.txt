@@ -1,0 +1,73 @@
+Unit - 1 
+
+Program List Java
+
+
+1) Hello - Print Hello World
+2) Getdata - Get Input from user
+3) Arithmetic1 - Arithmetic operations with different functions & user input
+) Arithmetic2 - Arithmetic operations with command line input (Single Value Command Line Argument)
+4) Ascii - Print Ascii value of Given Character
+5) Swap - Swap Two Numbers Without Third Variable 
+6) cmdarg - Display Command line Arguments With FOR EACH Loop
+7) cmdarg1 - Display Command Line Arguments With FOR Loop
+8) Calculator - Calculator Using Switch case 
+9) Day - Day of Week Using Switch case
+10) EmpSalary - Calculate Employee Salary
+11) Marksheet - Student Marksheet 
+12) Ternary Operator
+13) Instanceof Example-1
+14) Instanceof Example-2
+15) If Statement Example
+16) if-else Statement Example
+17) if-elseif Statement Example
+18) Calculating Grade Using Switch Statement
+19) Reverse Number Using While Loop
+20) Pattern Using For Loop
+   *
+  **
+ ***
+****
+ ***
+  **
+   *
+        
+21) Palindrome Number Using While Loop
+22) Break Statement : Unlabel 
+23) Break Statement : Label
+24) Continue Statement : Unlabel 
+25) Continue Statement : Label
+26) Return Statement
+
+27) Prime Number 
+28) Armstrong Number
+29) Sum Of Digit
+30) Fibonacci Numbers
+31) Factorial Number
+32) Pattern : Right " * "
+*
+**
+***
+
+33) Pattern : Left " * "
+   *
+  **
+***
+
+34) 
+   *
+  **
+ ***
+****
+
+35) 
+****
+ ***
+  **
+   *
+   
+36) Leap Year
+37) Matrix Multiplication
+
+38) 
+
